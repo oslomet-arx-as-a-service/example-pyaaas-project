@@ -1,4 +1,4 @@
 jupyter
-PyAaaS
+pyARXaaS
 pandas
 matplotlib
